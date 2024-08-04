@@ -5,7 +5,7 @@ This data project was used as a take-home assignment in the recruitment process 
 ### Download Datasets
 
 You can download the datasets used in this project from the following source:
-- [Dataset](path_to_dataset1.csv)
+- [Dataset](https://github.com/sncrsenyurt/Insights-from-City-Supply-and-Demand-Data/blob/main/dataset_1.csv)
 
 ### Project Overview
 
