@@ -1,8 +1,5 @@
 # Insights-from-City-Supply-and-Demand-Data
 
-
-## Insights from City Supply and Demand Data
-
 This data project was used as a take-home assignment in the recruitment process for data science positions at Uber.
 
 ### Download Datasets
