@@ -22,7 +22,7 @@ The objective of this project is to analyze city supply and demand data and deri
 ### Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/sncrsenyurt/Insights-from-City-Supply-and-Demand-Data
+    git clone https://github.com/sncrsenyurt/Insights-from-City-Supply-and-Demand-Data
 
 2. Navigate to the project directory:
     cd your-repo-name
